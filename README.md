@@ -1,2 +1,2 @@
 # jquery.lang
-Jquery plugin that helps facilitate the development of multi-language applications.
+Jquery plugin that helps the development of multi-language applications.
